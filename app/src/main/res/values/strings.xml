@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WVP设备管理</string>
+    <string name="login_title">WVP-PRO 服务登录</string>
+    <string name="server_url">服务地址</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="logging_in">正在登录...</string>
+    <string name="login_hint">输入服务信息后点击登录</string>
+    <string name="device_list_title">WVP-PRO 国标设备管理</string>
+    <string name="search">搜索</string>
+    <string name="refresh">刷新</string>
+    <string name="loading">加载中...</string>
+    <string name="load_failed">加载失败</string>
+    <string name="channel_list">通道列表</string>
+    <string name="play">点播</string>
+    <string name="stop_play">停止播放</string>
+    <string name="edit_name">修改设备名称</string>
+    <string name="edit_sdp_ip">修改收流IP</string>
+    <string name="sync_device">同步设备目录</string>
+    <string name="tcp_mode">TCP 模式</string>
+    <string name="udp_mode">UDP 模式</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="copy_id">复制通道ID</string>
+    <string name="copy_name">复制通道名称</string>
+    <string name="copied">已复制</string>
+    <string name="no_channel_selected">请先选中一条通道</string>
+    <string name="remember_password">记住密码</string>
+</resources>
