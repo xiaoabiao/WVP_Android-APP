@@ -66,7 +66,8 @@ cd WVP_Android-APP
 
 ## 预览截图
 
-<img width="1920" height="1080" alt="未标题-2" src="https://github.com/user-attachments/assets/112a5035-313e-4518-9f63-61cf1c781211" />
+<img width="1920" height="1080" alt="未标题-2" src="https://github.com/user-attachments/assets/c982c888-7e1c-4959-9c4f-4594c0530ff9" />
+
 
 
 
