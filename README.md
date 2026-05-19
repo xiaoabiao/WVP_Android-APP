@@ -66,7 +66,8 @@ cd WVP_Android-APP
 
 ## 预览截图
 
-> *（截图待补充）*
+<img width="1200" height="2670" alt="Screenshot_2026-05-19-10-49-36-691_com wvp device" src="https://github.com/user-attachments/assets/73df2328-ffa4-482b-96b6-205bb9f9ac96" />
+
 
 ## 许可证
 
