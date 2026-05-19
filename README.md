@@ -70,4 +70,4 @@ cd WVP_Android-APP
 
 ## 许可证
 
-本项目仅供学习交流使用。
+本项目基于 [GNU General Public License v2](LICENSE) 发布。
